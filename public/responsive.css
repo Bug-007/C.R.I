@@ -1,0 +1,30 @@
+@media only screen and (max-width: 600px) {
+    
+.logo {
+    width: 70%;
+  }
+  
+  .trophy {
+    flex-direction: column;
+  }
+  
+  .trophy--trop {
+    width: 90%;
+    height: 567px;
+  }
+  
+  .info {
+    padding-left: 10px;
+    padding-right: 10px;
+    line-height: 20px;
+  }
+  
+  .footer {
+    flex-direction: column;
+  }
+  
+  .product--image {
+    width: 100%;
+  }
+  
+  }

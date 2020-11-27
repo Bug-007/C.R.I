@@ -1,0 +1,94 @@
+a{
+    text-decoration: none;
+    color: white;
+}
+.bg{
+    background: linear-gradient(#0000, #fff9b1);
+}
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: 30%;
+    height: auto;
+}
+  
+.trophy{
+    display: flex;
+    margin-top: 46px;
+}
+.trophy--trop{
+margin-right: auto;
+width: 35%;
+height: 634px;
+}
+
+.info{
+    margin-left: auto;
+}
+
+.grouppic{
+   width: 100%; 
+   height: auto;
+}
+
+.product{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.singleline {
+    font-size: 0.9rem;
+    padding-top: 25px;
+    text-align: center;
+  }
+  
+.product--image{
+    width: 80%;
+    height: auto;
+}
+
+.break--line{
+    color: #e67863;
+    width: 95%;
+}
+
+.container--break--line{
+    margin-top: 18px;
+}
+
+.singleline--products{
+    font-size: 0.9rem;
+    padding-top: 13px;
+    text-align: center;   
+}
+
+.singleline--products--a{
+    font-size: 0.9rem;
+    padding-top: 17px;
+    text-align: center;   
+}
+
+.symbol{
+    color: red;
+}
+
+.footer{
+    background: #e67863;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.footer--info{
+    color: white;
+}
+
+.size{
+    font-size: 2rem;
+}
